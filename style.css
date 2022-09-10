@@ -45,15 +45,13 @@ h1 {
 }
 
 .product-card {
-  /* margin: 1rem auto; */
   background-color: var(--secondary-bg);
   margin: 1rem;
   width: 100%;
-  max-width: 18rem;
+  max-width: 19.5rem;
   border-radius: 0.3rem;
   font-size: 1rem;
   color: var(--text-pale);
-  /* background-color: #eee; */
   overflow: hidden;
 }
 
