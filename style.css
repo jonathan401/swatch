@@ -91,7 +91,7 @@ h1 {
 
 .color-buttons .color-button {
   cursor: pointer;
-  margin-right: 0.4rem;
+  margin-right: 0.6rem;
   width: 1.3rem;
   height: 1.3rem;
   border: 0;
@@ -100,6 +100,6 @@ h1 {
 }
 
 .color-buttons .color-button:focus {
-  outline: 1px solid var(--highlight);
+  outline: 2px solid var(--highlight);
   outline-offset: 2px;
 }
