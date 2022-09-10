@@ -85,15 +85,15 @@ h1 {
 .color-buttons {
   list-style: none;
   display: flex;
-  margin-top: 0.3rem;
+  margin-top: 0.5rem;
   align-items: center;
 }
 
 .color-buttons .color-button {
   cursor: pointer;
   margin-right: 0.6rem;
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 1.7rem;
+  height: 1.7rem;
   border: 0;
   outline: 0;
   border-radius: 50%;
